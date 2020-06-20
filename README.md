@@ -1,5 +1,6 @@
 COMMANDS:
 %uhoh:
+
 returns stinky
 
 %idea [enter idea]:
