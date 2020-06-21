@@ -1,38 +1,52 @@
 COMMANDS:
-%uhoh:
+!uhoh:
 
 returns stinky
 
-%idea [enter idea]:
+!idea [enter idea]:
 
 gives helpful feedback on your insipirational idea
 
 
-%commands:
+!commands:
 
 brings you here
 
-%hero:
+!hero:
 
 gives a random valorant hero
 
-%nightmare:
+!nightmare:
 
 you need better jokes
 
-%straw:
+!straw:
 
 tallys turtle kill streak
 
-%brrr:
+!brrr:
 
 haha chat go brrr
 
 
-%instagram
+!instagram
 
 gives mykulls insta
 
-%69
+!69
 
 nice
+
+!PepePls
+
+PepePls
+
+!otv
+
+gives otvs twitter
+
+!uwu
+
+describes the bot
+
+
