@@ -28,9 +28,6 @@ tallys turtle kill streak
 
 haha chat go brrr
 
-%69
-
-nice
 
 %instagram
 
