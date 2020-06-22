@@ -49,4 +49,26 @@ gives otvs twitter
 
 describes the bot
 
+!straw
+
+kills a turtle
+
+!reddit
+
+!youtube
+
+!discord
+
+!stealmoney 
+
+steals money
+
+!buycrack
+
+buys crack
+
+!drill
+
+drill-chan
+
 
